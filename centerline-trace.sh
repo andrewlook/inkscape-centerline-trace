@@ -10,7 +10,8 @@
 export CUR_DIR=$(dirname "$0")
 
 # opts='--invert=False'
-opts='--invert=False --candidates=15 --debug --remove True'
+opts='--invert=False --candidates=15 --remove True'
+#opts='--invert=False --candidates=15 --debug --remove True'
 # opts='--invert=False --candidates=1 --debug --remove True'
 
 # opts='--candidates=15'
